@@ -1,3 +1,10 @@
+||config.samsungads.com
+||cpu.samsungelectronics.com
+||otn.samsungcloudcdn.com
+||test.samsungrm.net
+||graphql.instagram.com
+||analytics.facebook.com
+||analytics-api.samsunghealthcn.com
 ||s.update.fbsbx.com
 ||luckyorange.net
 ||gs-loc.apple.com
