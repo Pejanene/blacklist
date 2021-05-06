@@ -1,3 +1,5 @@
+||iadsdk.apple.com
+||advertising.apple.com
 ||config.samsungads.com
 ||cpu.samsungelectronics.com
 ||otn.samsungcloudcdn.com
