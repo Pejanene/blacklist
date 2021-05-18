@@ -1,4 +1,10 @@
 ||iadsdk.apple.com
+||ca.iadsdk.apple.com
+||cf.iadsdk.apple.com
+||cs.iadsdk.apple.com
+||su.iadsdk.apple.com
+||tr.iadsdk.apple.com
+||iadmoo.apple.com
 ||advertising.apple.com
 ||config.samsungads.com
 ||cpu.samsungelectronics.com
