@@ -1,3 +1,7 @@
+||cc.sys.miui.com
+||flash.sec.intl.miui.com
+||flash.sec.miui.com
+||cc2.sys.miui.com
 ||sa.api.miui.com
 ||sa.api.intl.miui.com
 ||app.chat.xiaomi.net
