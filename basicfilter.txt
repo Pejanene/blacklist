@@ -1,3 +1,13 @@
+||sa.api.miui.com
+||sa.api.intl.miui.com
+||app.chat.xiaomi.net
+||ccc.sys.miui.com
+||ccc.sys.intl.miui.com
+||sdkconfig.ad.xiaomi.com
+||auth.be.sec.intl.miui.com
+||weatherapi.market.xioami.com
+||resolver.msg.xiaomi.net
+||data.mistat.intl.xiaomi.com
 ||micloud.xiaomi.net
 ||stat.xiaomi.com
 ||fcanr.tracking.miui.com
