@@ -1,3 +1,15 @@
+||micloud.xiaomi.net
+||stat.xiaomi.com
+||fcanr.tracking.miui.com
+||a.stat.xiaomi.com
+||data.mistat.xiaomi.com
+||cdn.experiment.xiaomi.com
+||g.galleryapi.micloud.xiaomi.net
+||adash.man.aliyuncs.com
+||api.account.xiaomi.com
+||auth.be.sec.miui.com
+||api.sec.miui.com
+||tracking.miui.com
 ||iadsdk.apple.com
 ||ca.iadsdk.apple.com
 ||cf.iadsdk.apple.com
