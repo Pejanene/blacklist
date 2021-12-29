@@ -1,3 +1,4 @@
+||confection.io^
 ||cc.sys.miui.com
 ||flash.sec.intl.miui.com
 ||flash.sec.miui.com
