@@ -205,10 +205,8 @@
 ||adlog.flurry.com
 ||ads.flurry.com
 ||alpha.telemetry.microsft.com
-||analytics.query.yahoo.com
 ||analytics.samsungknox.com
 ||analytics.twitter.com
-||analytics.yahoo.com
 ||app.appsflyer.com
 ||beap.gemini.yahoo.com
 ||beian.gov.cn
