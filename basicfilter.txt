@@ -1,3 +1,16 @@
+||ads-api.twitter.com
+||ads-bidder-api.twitter.com
+||ads.twitter.com
+||analytics.twitter.com
+||ads-twitter.com
+||static.ads-twitter.com
+||ads.bingads.microsoft.com
+||advertise.bingads.microsoft.com
+||api.bingads.microsoft.com
+||bingads.microsoft.com
+||m.bingads.microsoft.com
+||device-metrics-us-2.amazon.com
+||device-metrics-us.amazon.com
 ||userlocation.googleapis.com
 ||crs-event.line.me
 ||crs-hometab-event.line.me
@@ -206,7 +219,6 @@
 ||ads.flurry.com
 ||alpha.telemetry.microsft.com
 ||analytics.samsungknox.com
-||analytics.twitter.com
 ||app.appsflyer.com
 ||beap.gemini.yahoo.com
 ||beian.gov.cn
