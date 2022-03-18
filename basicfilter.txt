@@ -1,3 +1,5 @@
+||smp-device-content.apple.com
+||api.smoot.apple.com
 ||xp.apple.com
 ||apple.comscoreresearch.com
 ||confection.io^
