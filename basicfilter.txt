@@ -1,3 +1,4 @@
+||a.line.me
 ||ads-api.twitter.com
 ||ads-bidder-api.twitter.com
 ||ads.twitter.com
