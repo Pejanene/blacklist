@@ -386,3 +386,7 @@
 ||pulse.data.flurry.com
 ||realtime-metrics.flurry.com
 ||staging-ads.flurry.com
+||conn-service-cn-04.allawntech.com
+||conn-service-cn-03.allawntech.com
+||dragate.dc.oppomobile.com
+||api-audit.heytapmobi.com
