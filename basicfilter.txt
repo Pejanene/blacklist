@@ -273,7 +273,6 @@
 ||track-post-tw.com^
 ||track-post-gov-tw.info^
 ||brainstudy.info^
-||track-post-gov-tw.info^
 ||goodluckdog.space^
 ||in.appcenter.ms^
 ||ndmdhs.com^
@@ -440,14 +439,6 @@
 ||stat-in.dc.oppomobile.com
 ||stuck-cn.dc.oppomobile.com
 ||stuck-sg.dc.oppomobile.com
-||adx-id.ads.oppomobile.com
-||adx.ads.oppomobile.com
-||bdapi.ads.oppomobile.com
-||bjdata.ads.oppomobile.com
-||data-id.ads.oppomobile.com
-||data.ads.oppomobile.com
-||uapi.ads.oppomobile.com
-||adsfs.oppomobile.com
 ||st-onlinegame.vivo
 ||main.gamecenter.vivo.com.cn
 ||game-common.vivo.com.cn
@@ -491,3 +482,12 @@
 ||prt.stsdk.vivo.com.cn
 ||st-ads-jssdk.vivo.com.cn
 ||vcardsdkservice.vivo.com.cn
+||a.line.me^
+||firebaseinstallations.googleapis.com
+||footprints-pa.googleapis.com
+||mp.weixin.qq.com
+||sp.nba.com
+||assets.adobedtm.com
+||variations.brave.com
+||beacons5.gvt3.com
+||exceptions.mobile.yahoo.com
