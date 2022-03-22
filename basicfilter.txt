@@ -491,3 +491,14 @@
 ||variations.brave.com
 ||beacons5.gvt3.com
 ||exceptions.mobile.yahoo.com
+||canvass-yql.media.yahoo.com^
+||asia-monitor-stsdk.vivoglobal.com
+||asia-onrt-stsdk.vivoglobal.com
+||asia-ort-stsdk.vivoglobal.com
+||asia-pnrt-stsdk.vivoglobal.com
+||asia-prt-stsdk.vivoglobal.com
+||asia-stsdk.vivoglobal.com
+||onrt-stsdk.vivoglobal.com
+||stsdk.vivoglobal.com
+||onrt.stsdk.vivoglobal.com
+||prt.stsdk.vivoglobal.com
