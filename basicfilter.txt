@@ -483,7 +483,6 @@
 ||st-ads-jssdk.vivo.com.cn
 ||vcardsdkservice.vivo.com.cn
 ||a.line.me^
-||firebaseinstallations.googleapis.com
 ||footprints-pa.googleapis.com
 ||mp.weixin.qq.com
 ||sp.nba.com
