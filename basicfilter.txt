@@ -528,7 +528,6 @@
 ||calibra.com
 ||internet.org
 ||fb.watch
-||firebaseinstallations.googleapis.com
 ||az43064.vo.msecnd.net
 ||coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 ||d3mjsomixevyw7.cloudfront.net
