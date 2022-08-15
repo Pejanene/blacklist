@@ -550,3 +550,8 @@
 ||www.akcjasamsung.e-kei.pl
 ||samsung-klimatyzacja.pl
 ||samsung.co.in
+||d2c4ylitp1qu24.cloudfront.net
+||firebaseinstallations.googleapis.com
+||sdk.pushmessage.samsung.com
+||us-api.mcsvc.samsung.com
+||capi.samsungcloud.com
