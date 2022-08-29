@@ -555,7 +555,6 @@
 ||sdk.pushmessage.samsung.com
 ||us-api.mcsvc.samsung.com
 ||capi.samsungcloud.com
-||footprints-pa.googleapis.com
 ||analytics.cathaypacific.com
 ||api3.branch.io
 ||branch.io
@@ -573,9 +572,7 @@
 ||ads.ioam.de
 ||adeventtracker.spotify.com
 ||log.spotify.com
-||metrics.mzstatic.com
 ||notes-analytics-events.apple.com
-||supportmetrics.apple.com
 ||cmws.iad.apple.com
 ||iadworkbench-soak.iad.apple.com
 ||iris.iad.apple.com
@@ -607,7 +604,6 @@
 ||w3-reporting.reddit.com
 ||diagnostics.redditmedia.com
 ||stats.redditmedia.com
-||ads-bidder-api.twitter.com
 ||urls.api.twitter.com
 ||dad-api.dcard.tw
 ||tamedia.com.tw
