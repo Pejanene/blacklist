@@ -1094,3 +1094,4 @@
 ||location.services.mozilla.com
 ||graph-fallback.instagram.com
 ||connect.facebook.net
+||cdn.cookielaw.org
