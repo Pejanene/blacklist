@@ -582,7 +582,6 @@
 ||samsung-klimatyzacja.pl
 ||samsung.co.in
 ||d2c4ylitp1qu24.cloudfront.net
-||firebaseinstallations.googleapis.com
 ||sdk.pushmessage.samsung.com
 ||us-api.mcsvc.samsung.com
 ||capi.samsungcloud.com
@@ -667,8 +666,6 @@
 ||ads-api.tiktok.com
 ||nigov.tw
 ||ad.setn.co
-@@||amp-api-edge.apps.apple.com
-@@||amp-api-search-edge.apps.apple.com
 ||gtrack.365economist.com
 ||track.365economist.com
 ||bugsnag-event.monitor.core.app.alexa.a2z.com
